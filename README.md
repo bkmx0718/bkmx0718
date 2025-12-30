@@ -17,7 +17,7 @@ I believe in **consistent learning, clear understanding, and gradual improvement
 ## What I’m Currently Learning
 
 - Programming fundamentals  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- Problem-solving using code  
+- Problem-solving using code  <img src="https://media1.tenor.com/m/PLIr_VkF6ywAAAAC/ghostedvpn-hacker-cat.gif" width="30">
 - Basic data structures and logic  
 
 <h3 align="left">Languages and Tools:</h3>
