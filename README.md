@@ -35,13 +35,13 @@ I believe in **consistent learning, clear understanding, and gradual improvement
 
 ---
 
-## Projects
+## Repository
 
 Most of my repositories focus on:
 - University assignments  
 - Practice problems to understand core concepts  
 
-Each project includes a README explaining:
+Each repository includes a README explaining:
 - What the program does  
 - What I learned from it  
 - Possible improvements  
