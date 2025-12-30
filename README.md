@@ -9,7 +9,7 @@
 ## About Me
 
 I am a computer science student who studying in Universiti Teknologi Malaysia.  
-I use GitHub to document my learning journey, coursework, and practice projects as I build a strong foundation in programming and problem-solving.
+I use GitHub to document my learning journey, coursework, and practice projects as I build a strong foundation in programming and problem-solving.  
 I believe in **consistent learning, clear understanding, and gradual improvement** rather than rushing into advanced topics without fundamentals.
 
 ---
