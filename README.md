@@ -49,7 +49,7 @@ Each repository includes a README explaining:
 
 ## Skills (In Progress)
 
-- Basic programming concepts (variables, loops, arrays, functions)
+- Basic programming concepts 
 - Simple problem decomposition
 - Writing clear and structured code (learning stage)
 
