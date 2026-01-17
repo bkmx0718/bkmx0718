@@ -66,7 +66,7 @@ I am still at an early stage, but I value:
 
 ## Contact
 
-- 📫 How to reach me **bransonkoh7716@gmail.com**
+- 📫 How to reach me --> **bransonkoh7716@gmail.com**
 
 ---
 
