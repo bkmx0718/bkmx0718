@@ -2,6 +2,7 @@
 
 🎓 Bachelor of Computer Science (Computer Network & Security with Honours)  
 📍 Muar, Johor, Malaysia 
+
 🌱 Beginner | Learning step by step  
 
 ---
