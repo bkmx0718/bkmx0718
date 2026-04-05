@@ -25,6 +25,7 @@ Johor Matriculation College (July 2024 - May 2025)
 Universiti Teknologi Malaysia (October 2025 - Present)
 - Bachelor Of Computer Science ( Computer Networks And Security ) With Honours
 
+---
 
 ## What I’m Currently Learning
 
