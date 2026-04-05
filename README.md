@@ -54,15 +54,6 @@ Each repository includes a README explaining:
 
 ---
 
-## Mindset
-
-I am still at an early stage, but I value:
-- Discipline over shortcuts  
-- Understanding over memorization  
-- Progress over perfection  
-
----
-
 ## Contact
 
 - 📫 How to reach me --> **bransonkoh7716@gmail.com**
