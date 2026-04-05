@@ -13,6 +13,19 @@ I believe in **consistent learning, clear understanding, and gradual improvement
 
 ---
 
+## Education
+
+SMK Saint Andrew (January 2019 - February 2024)
+- SPM: 10As
+
+Johor Matriculation College (July 2024 - May 2025)
+- CGPA 4.0
+- Muet Band 4.0
+
+Universiti Teknologi Malaysia (October 2025 - Present)
+- Bachelor Of Computer Science ( Computer Networks And Security ) With Honours
+
+
 ## What I’m Currently Learning
 
 - Programming fundamentals  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
